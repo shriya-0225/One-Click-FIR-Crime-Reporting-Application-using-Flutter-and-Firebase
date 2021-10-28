@@ -1,0 +1,42 @@
+description: "A new Flutter application."
+name: "flutterapp"
+publish_to: "none"
+version: "1.0.0+1"
+dependencies: 
+  cupertino_icons: "^0.1.3"
+  path_drawing: "^0.4.1"
+  firebase: "^9.0.2" 
+  flutter: 
+    sdk: "flutter"
+  firebase_core: ^1.8.0
+  firebase_auth: ^3.1.4
+  firebase_storage: ^10.0.6
+  cloud_firestore: ^2.5.4
+dev_dependencies: 
+  flutter_test: 
+    sdk: "flutter"
+environment: 
+  sdk: ">=2.7.0 <3.0.0"
+flutter: 
+  assets: 
+    - "assets/images/"
+  fonts: 
+    - 
+      family: "Roboto"
+      fonts: 
+        - 
+          asset: "fonts/Roboto-700.ttf"
+          style: "normal"
+          weight: 700
+        - 
+          asset: "fonts/Roboto-regular.ttf"
+          style: "normal"
+          weight: 400
+    - 
+      family: "Arima Madurai"
+      fonts: 
+        - 
+          asset: "fonts/ArimaMadurai-700.ttf"
+          style: "normal"
+          weight: 700
+  uses-material-design: true
