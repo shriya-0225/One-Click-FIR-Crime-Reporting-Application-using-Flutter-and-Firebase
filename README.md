@@ -1,0 +1,2 @@
+# One-Click-FIR-Crime-Reporting-Application-using-Flutter-and-Firebase
+One Click FIR: Crime Reporting Application using Flutter and Firebase. The application has been developed to override the problems prevailing in the manual system. The project is supported to eliminate and reduce the hardships faced by the existing system. This system is designed for particular need of the company to carry out operations in a smooth and effective manner. 
